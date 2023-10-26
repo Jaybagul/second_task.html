@@ -5,7 +5,7 @@
 </head>
 
 <body>
-          <h1 align="center">Assignment 2</h1>
+          
       
           <h1>WELCOME RED & WHITE MULTIMEDIA !! </h1>
           <h2>WELCOME RED & WHITE MULTIMEDIA !!</h2>
